@@ -27,7 +27,6 @@ namespace Taozipie
 
         private commission _commission;
         private List<Product> _products;
-        private List<savingImage> tempUploadedImages;
         
         public updateCom(commission _commission, List<Product> products)
         {
